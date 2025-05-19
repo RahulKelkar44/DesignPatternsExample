@@ -4,3 +4,6 @@
 
 /.vs/DesignPatternExamples
 /obj
+/.vs/ProjectEvaluation
+/bin/Debug/net7.0/DesignPatternExamples.deps.json
+/bin/Debug/net7.0
